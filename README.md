@@ -1,15 +1,15 @@
-Probabilistic Modelling of epidemic dynamics
+# Probabilistic Modelling of epidemic dynamics
 
 We propose a probabilistic approach to modelling the propagation of the coronavirus disease 2019 (COVID-19) in Madagascar, with all its specificities.
 With the strategy of the Malagasy state, which consists of isolating all suspected cases and hospitalized confirmed case, we get an epidemic model with
 seven compartments: susceptible (S), Exposed (E), Infected (I), Asymptomatic (A), Hospitalized (H), Cured (C) and Death (D). In addition to the classical
 deterministic models used in epidemiology, the stochastic model offers a natural representation of the evolution of the COVID-19 epidemic. 
 
-Help
+# Help
 
 Please direct all questions to stefanatsilefa@gmail.com
 
-Citation
+# Citation
 
 @article{raherinirina_probabilistic_2021,
 	title = {Probabilistic {Modelling} of {COVID}-19 {Dynamic} in the {Context} of {Madagascar}},
